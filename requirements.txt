@@ -1,0 +1,8 @@
+jupyterlab
+jupyter
+tqdm
+pandas
+seaborn 
+scikit-learn
+pyarrow
+fastparquet 
